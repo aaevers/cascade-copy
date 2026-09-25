@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/aiden/Documents/Programming/cascade-copy/build",
+  "command": "/usr/bin/cc   -g -arch arm64 -o CMakeFiles/cascade-copy.dir/main.c.o -c /Users/aiden/Documents/Programming/cascade-copy/main.c",
+  "file": "/Users/aiden/Documents/Programming/cascade-copy/main.c",
+  "output": "CMakeFiles/cascade-copy.dir/main.c.o"
+},
+{
+  "directory": "/Users/aiden/Documents/Programming/cascade-copy/build",
+  "command": "/usr/bin/cc   -g -arch arm64 -o CMakeFiles/cascade-copy.dir/utils.c.o -c /Users/aiden/Documents/Programming/cascade-copy/utils.c",
+  "file": "/Users/aiden/Documents/Programming/cascade-copy/utils.c",
+  "output": "CMakeFiles/cascade-copy.dir/utils.c.o"
+}
+]
